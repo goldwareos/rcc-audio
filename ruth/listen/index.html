@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Listen offline · Ruth (Audio) · Regeneration Calvary Chapel</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root { --navy:#0f2140; --navy2:#16305a; --gold:#d9b46a; --cream:#f8f4ea; --ink:#1b2333; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--cream); color:var(--ink); font:16px/1.5 Montserrat, system-ui, sans-serif; }
+  header { background:var(--navy); color:#fff; padding:28px 20px 34px; text-align:center; }
+  header img { width:150px; height:150px; border-radius:14px; box-shadow:0 8px 24px rgba(0,0,0,.35); }
+  h1 { font:600 34px/1.1 "Cormorant Garamond", Georgia, serif; margin:16px 0 4px; }
+  header p { margin:0; color:var(--gold); letter-spacing:.14em; font-size:12px; text-transform:uppercase; }
+  main { max-width:520px; margin:0 auto; padding:22px 18px 40px; }
+  h2 { font:600 24px/1.2 "Cormorant Garamond", Georgia, serif; color:var(--navy); margin:26px 0 8px; }
+  .lead { margin:0 0 6px; }
+  .btn { display:flex; align-items:center; gap:12px; width:100%; margin:10px 0; padding:14px 16px; border-radius:12px;
+         background:var(--navy); color:#fff; text-decoration:none; font-weight:600; border:0; font-size:16px; cursor:pointer; }
+  .btn small { display:block; font-weight:400; opacity:.8; font-size:13px; }
+  .btn .ic { width:34px; height:34px; border-radius:8px; display:grid; place-items:center; flex:none; font-size:18px; }
+  .apple .ic { background:linear-gradient(#d56dfb,#8a2be2); }
+  .pc .ic { background:#f43e37; }
+  .ov .ic { background:#fc7e0f; }
+  .copy { background:#fff; color:var(--navy); border:1.5px solid var(--navy); }
+  .copy .ic { background:var(--cream); }
+  ol { padding-left:22px; margin:8px 0; } li { margin:6px 0; }
+  .tip { background:#fff; border-left:4px solid var(--gold); padding:12px 14px; border-radius:8px; font-size:14px; }
+  .ep { display:flex; justify-content:space-between; align-items:center; gap:10px; padding:12px 0; border-bottom:1px solid #e3dccb; }
+  .ep b { display:block; font-size:15px; } .ep span { font-size:13px; color:#5b6474; }
+  .ep a { flex:none; color:var(--navy); font-weight:600; font-size:14px; text-decoration:none; border:1.5px solid var(--navy);
+          border-radius:20px; padding:6px 12px; }
+  .back { display:block; text-align:center; margin-top:26px; color:var(--navy); }
+  #copied { display:none; color:#2e7d32; font-size:14px; margin-left:4px; }
+</style>
+</head>
+<body>
+<header>
+  <img src="../artwork-3000.jpg" alt="Ruth (Audio) cover">
+  <h1>Ruth (Audio)</h1>
+  <p>Listen offline · Regeneration Calvary Chapel</p>
+</header>
+<main>
+  <p class="lead">Take the whole Book of Ruth with you: on a trip, at work, anywhere with no signal. Add it once to a
+  podcast app on your phone, and every message downloads so you can listen offline.</p>
+
+  <h2>1. Tap your podcast app</h2>
+  <a class="btn apple" id="apple" href="podcast://goldwareos.github.io/rcc-audio/ruth/feed.xml">
+    <span class="ic">🎙️</span><span>Apple Podcasts<small>iPhone and iPad (already on your phone)</small></span></a>
+  <a class="btn pc" href="pktc://subscribe/goldwareos.github.io/rcc-audio/ruth/feed.xml">
+    <span class="ic">▶︎</span><span>Pocket Casts<small>iPhone and Android</small></span></a>
+  <a class="btn ov" href="overcast://x-callback-url/add?url=https%3A%2F%2Fgoldwareos.github.io%2Frcc-audio%2Fruth%2Ffeed.xml">
+    <span class="ic">◉</span><span>Overcast<small>iPhone</small></span></a>
+  <button class="btn copy" id="copy" type="button">
+    <span class="ic">🔗</span><span>Copy the podcast link<small>For any other app: paste it under "Add by URL"</small></span></button>
+  <span id="copied">Copied. Open your podcast app and paste it.</span>
+
+  <h2>2. Download for offline</h2>
+  <ol>
+    <li>Tap <b>Follow</b> (or Subscribe) in the app.</li>
+    <li>Tap the <b>download arrow</b> ⬇︎ next to a message, or turn on <b>automatic downloads</b> for the show.</li>
+    <li>Downloaded messages play with no Internet or cell service.</li>
+  </ol>
+  <p class="tip">New messages in this series show up in the app by themselves.</p>
+
+  <h2>Or save one message</h2>
+  <div class="ep"><div><b>God Writes the Final Chapter</b><span>Ruth 4:1-22 · 68 min</span></div>
+    <a href="https://github.com/goldwareos/rcc-audio/releases/download/ruth-v1/Ruth4_God_Writes_the_Final_Chapter.mp3">⬇︎ MP3</a></div>
+  <div class="ep"><div><b>The Courage to Be Still</b><span>Ruth 3:1-18 · 62 min</span></div>
+    <a href="https://github.com/goldwareos/rcc-audio/releases/download/ruth-v1/Ruth3_The_Courage_to_Be_Still.mp3">⬇︎ MP3</a></div>
+  <div class="ep"><div><b>God Is at Work When We Cannot See Him</b><span>Ruth 2:1-23 · 70 min</span></div>
+    <a href="https://github.com/goldwareos/rcc-audio/releases/download/ruth-v1/Ruth2_God_Is_at_Work_When_We_Cannot_See_Him.mp3">⬇︎ MP3</a></div>
+  <div class="ep"><div><b>God Is Still Working</b><span>Ruth 1:1-22 · 63 min</span></div>
+    <a href="https://github.com/goldwareos/rcc-audio/releases/download/ruth-v1/Ruth1_God_Is_Still_Working.mp3">⬇︎ MP3</a></div>
+  <p class="tip">On iPhone a single MP3 saves to the Files app (Downloads) and plays there offline.</p>
+
+  <a class="back" href="https://regenerationcc.churchtrac.com/ruth">← Back to Ruth on the church website</a>
+</main>
+<script>
+  const FEED = 'https://goldwareos.github.io/rcc-audio/ruth/feed.xml';
+  document.getElementById('copy').onclick = async () => {
+    try { await navigator.clipboard.writeText(FEED); } catch (e) { prompt('Copy this link:', FEED); return; }
+    document.getElementById('copied').style.display = 'inline';
+  };
+</script>
+</body>
+</html>
