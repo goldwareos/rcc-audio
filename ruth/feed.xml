@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <title>Ruth (Audio) | Regeneration Calvary Chapel</title>
+  <link>https://regenerationcc.churchtrac.com/ruth</link>
+  <atom:link href="https://goldwareos.github.io/rcc-audio/ruth/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <copyright>&#169; 2026 Regeneration Calvary Chapel</copyright>
+  <description>Verse-by-verse teaching through the Book of Ruth with Pastor Jason Gold at Regeneration Calvary Chapel in Sandpoint, Idaho: four Wednesday-night messages on God&#x27;s providence, redemption and Boaz, the kinsman-redeemer who points us to Jesus. Teaching only. Simply teaching the Bible simply.</description>
+  <itunes:summary>Verse-by-verse teaching through the Book of Ruth with Pastor Jason Gold at Regeneration Calvary Chapel in Sandpoint, Idaho: four Wednesday-night messages on God&#x27;s providence, redemption and Boaz, the kinsman-redeemer who points us to Jesus. Teaching only. Simply teaching the Bible simply.</itunes:summary>
+  <itunes:author>Regeneration Calvary Chapel</itunes:author>
+  <itunes:owner><itunes:name>Regeneration Calvary Chapel</itunes:name><itunes:email>info@regencc.com</itunes:email></itunes:owner>
+  <itunes:image href="https://goldwareos.github.io/rcc-audio/ruth/artwork-3000.jpg"/>
+  <image><url>https://goldwareos.github.io/rcc-audio/ruth/artwork-3000.jpg</url><title>Ruth (Audio) | Regeneration Calvary Chapel</title><link>https://regenerationcc.churchtrac.com/ruth</link></image>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Christianity"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:block>Yes</itunes:block>
+  <podcast:locked>yes</podcast:locked>
+  <lastBuildDate>Wed, 11 Nov 2026 22:56:53 -0800</lastBuildDate>
+  <item>
+    <title>God Writes the Final Chapter | Ruth 4:1-22</title>
+    <description>How does God finish a story that began with three funerals? In Ruth 4, Boaz goes up to the city gate, gives the nearer relative his chance to redeem Naomi&#x27;s land and Ruth, and when that man refuses, Boaz redeems them before the elders and takes Ruth as his wife. Their son Obed becomes the grandfather of King David. Pastor Jason Gold teaches verse by verse through Ruth 4:1-22: the laws of redemption and levirate marriage, the three marks of a kinsman-redeemer fulfilled in Jesus, speaking life to people who taste bitterness, God restoring the years, and the hope that God writes the final chapter of our lives. Message only, from the Wednesday Night Bible study at Regeneration Calvary Chapel in Sandpoint, Idaho, on Wednesday, November 11, 2026.</description>
+    <itunes:summary>How does God finish a story that began with three funerals? In Ruth 4, Boaz goes up to the city gate, gives the nearer relative his chance to redeem Naomi&#x27;s land and Ruth, and when that man refuses, Boaz redeems them before the elders and takes Ruth as his wife. Their son Obed becomes the grandfather of King David. Pastor Jason Gold teaches verse by verse through Ruth 4:1-22: the laws of redemption and levirate marriage, the three marks of a kinsman-redeemer fulfilled in Jesus, speaking life to people who taste bitterness, God restoring the years, and the hope that God writes the final chapter of our lives. Message only, from the Wednesday Night Bible study at Regeneration Calvary Chapel in Sandpoint, Idaho, on Wednesday, November 11, 2026.</itunes:summary>
+    <itunes:author>Pastor Jason Gold</itunes:author>
+    <enclosure url="https://github.com/goldwareos/rcc-audio/releases/download/ruth-v1/Ruth4_God_Writes_the_Final_Chapter.mp3" length="49104816" type="audio/mpeg"/>
+    <guid isPermaLink="false">rcc-ruth-4-2026-11-11</guid>
+    <link>https://regenerationcc.churchtrac.com/ruth</link>
+    <pubDate>Wed, 11 Nov 2026 18:30:00 -0800</pubDate>
+    <itunes:duration>1:08:08</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Courage to Be Still | Ruth 3:1-18</title>
+    <description>What do you do when you have done what you can and the outcome is out of your hands? In Ruth 3, the harvest is over and Naomi seeks rest and security for Ruth, who goes to Boaz at the threshing floor and asks him to act as her kinsman-redeemer. Pastor Jason Gold teaches verse by verse through Ruth 3:1-18: coming to our Redeemer humbly, boldly and gratefully, Boaz&#x27;s integrity and the &quot;virtuous woman&quot; whose reputation went before her, and Naomi&#x27;s counsel to &quot;sit still,&quot; trusting God when life is out of our control. Message only, from the Wednesday Night Bible study at Regeneration Calvary Chapel in Sandpoint, Idaho, on Wednesday, October 28, 2026.</description>
+    <itunes:summary>What do you do when you have done what you can and the outcome is out of your hands? In Ruth 3, the harvest is over and Naomi seeks rest and security for Ruth, who goes to Boaz at the threshing floor and asks him to act as her kinsman-redeemer. Pastor Jason Gold teaches verse by verse through Ruth 3:1-18: coming to our Redeemer humbly, boldly and gratefully, Boaz&#x27;s integrity and the &quot;virtuous woman&quot; whose reputation went before her, and Naomi&#x27;s counsel to &quot;sit still,&quot; trusting God when life is out of our control. Message only, from the Wednesday Night Bible study at Regeneration Calvary Chapel in Sandpoint, Idaho, on Wednesday, October 28, 2026.</itunes:summary>
+    <itunes:author>Pastor Jason Gold</itunes:author>
+    <enclosure url="https://github.com/goldwareos/rcc-audio/releases/download/ruth-v1/Ruth3_The_Courage_to_Be_Still.mp3" length="44762633" type="audio/mpeg"/>
+    <guid isPermaLink="false">rcc-ruth-3-2026-10-28</guid>
+    <link>https://regenerationcc.churchtrac.com/ruth</link>
+    <pubDate>Wed, 28 Oct 2026 18:30:00 -0700</pubDate>
+    <itunes:duration>1:02:06</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>God Is at Work When We Cannot See Him | Ruth 2:1-23</title>
+    <description>What do you do when your circumstances haven&#x27;t changed? In Ruth 2, Naomi and Ruth are still widowed and poor, yet Ruth takes the next faithful step, goes out to glean, and &quot;happens&quot; to come to the field of Boaz. Pastor Jason Gold teaches verse by verse through Ruth 2:1-23: God&#x27;s providence in ordinary obedience, Boaz&#x27;s protection and &quot;handfuls of purpose,&quot; Ruth&#x27;s question &quot;Why have I found favor in your eyes?&quot;, and the first glimpse of a kinsman-redeemer who points us to Jesus. Message only, from the Wednesday Night Bible study at Regeneration Calvary Chapel in Sandpoint, Idaho, on Wednesday, October 21, 2026.</description>
+    <itunes:summary>What do you do when your circumstances haven&#x27;t changed? In Ruth 2, Naomi and Ruth are still widowed and poor, yet Ruth takes the next faithful step, goes out to glean, and &quot;happens&quot; to come to the field of Boaz. Pastor Jason Gold teaches verse by verse through Ruth 2:1-23: God&#x27;s providence in ordinary obedience, Boaz&#x27;s protection and &quot;handfuls of purpose,&quot; Ruth&#x27;s question &quot;Why have I found favor in your eyes?&quot;, and the first glimpse of a kinsman-redeemer who points us to Jesus. Message only, from the Wednesday Night Bible study at Regeneration Calvary Chapel in Sandpoint, Idaho, on Wednesday, October 21, 2026.</itunes:summary>
+    <itunes:author>Pastor Jason Gold</itunes:author>
+    <enclosure url="https://github.com/goldwareos/rcc-audio/releases/download/ruth-v1/Ruth2_God_Is_at_Work_When_We_Cannot_See_Him.mp3" length="50730477" type="audio/mpeg"/>
+    <guid isPermaLink="false">rcc-ruth-2-2026-10-21</guid>
+    <link>https://regenerationcc.churchtrac.com/ruth</link>
+    <pubDate>Wed, 21 Oct 2026 18:30:00 -0700</pubDate>
+    <itunes:duration>1:10:23</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>God Is Still Working | Ruth 1:1-22</title>
+    <description>Is God still working when everything falls apart? In Ruth 1, during the dark days of the judges, famine drives Elimelech&#x27;s family from Bethlehem to Moab, and Naomi buries her husband and both of her sons. Pastor Jason Gold teaches verse by verse through Ruth 1:1-22: Naomi&#x27;s grief, Orpah&#x27;s return, Ruth&#x27;s confession of faith (&quot;Your people shall be my people, and your God, my God&quot;), and why just because we cannot see what God is doing does not mean He is not working. Message only, from the Wednesday Night Bible study at Regeneration Calvary Chapel in Sandpoint, Idaho, on Wednesday, September 30, 2026.</description>
+    <itunes:summary>Is God still working when everything falls apart? In Ruth 1, during the dark days of the judges, famine drives Elimelech&#x27;s family from Bethlehem to Moab, and Naomi buries her husband and both of her sons. Pastor Jason Gold teaches verse by verse through Ruth 1:1-22: Naomi&#x27;s grief, Orpah&#x27;s return, Ruth&#x27;s confession of faith (&quot;Your people shall be my people, and your God, my God&quot;), and why just because we cannot see what God is doing does not mean He is not working. Message only, from the Wednesday Night Bible study at Regeneration Calvary Chapel in Sandpoint, Idaho, on Wednesday, September 30, 2026.</itunes:summary>
+    <itunes:author>Pastor Jason Gold</itunes:author>
+    <enclosure url="https://github.com/goldwareos/rcc-audio/releases/download/ruth-v1/Ruth1_God_Is_Still_Working.mp3" length="45203055" type="audio/mpeg"/>
+    <guid isPermaLink="false">rcc-ruth-1-2026-09-30</guid>
+    <link>https://regenerationcc.churchtrac.com/ruth</link>
+    <pubDate>Wed, 30 Sep 2026 18:30:00 -0700</pubDate>
+    <itunes:duration>1:02:43</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
